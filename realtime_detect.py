@@ -1,7 +1,7 @@
 """
 Realtime Emotion Detection using trained SVM
 Run with:
-    python realtime_detect.py --model svm_emotion_model.joblib --scaler scaler.joblib --camera 0
+python realtime_detect.py --model svm_emotion_model.joblib --scaler scaler.joblib --camera 0
 """
 
 import argparse
